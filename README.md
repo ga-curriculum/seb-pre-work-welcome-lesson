@@ -5,9 +5,9 @@
 <span id=time-estimate class="color-grey-500">20 mins</span>
 
 <p id="lesson-description">
-  If you’re reading this, you’re on your way to becoming a software engineer. Congratulations! 
+If you’re reading this, you’re on your way to becoming a software engineer. Congratulations! 
 
-  General Assembly has prepared a pre-course learning experience to help you hit the ground running because, once you get into the classroom, things will move quickly. Let’s see what you have in store!
+General Assembly has prepared a pre-course learning experience to help you hit the ground running because, once you get into the classroom, things will move quickly. Let’s see what you have in store!
   
 </p>
 
