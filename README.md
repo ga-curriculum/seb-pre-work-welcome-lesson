@@ -94,7 +94,7 @@ Once you’ve completed the pre-work, you’ll want to know which lessons sunk i
 
 <h1 class="slide-header">The Course</h1>
 
-![]https://ga-create-api-assets.s3.amazonaws.com/lnkmzDBSRe8lazDWrIgF_seb-journey-3.png
+![](https://ga-create-api-assets.s3.amazonaws.com/lnkmzDBSRe8lazDWrIgF_seb-journey-3.png)
 
 And of course, there’s the course! Dynamic lectures, group activities, plenty of hands-on practice — this program is a non-stop challenge. It’s intense. It’s effective. And it’s empowering.
 
