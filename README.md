@@ -26,7 +26,7 @@ Pre-Work Details
 <h1 class="slide-header">Welcome to the Program</h1>
 
 <div class="wistia_embed wistia_async_ei80sghqlg wistia_embed_initialized" id="wistia-ei80sghqlg"
-  style="width: 100%; height: 50%;">
+  style="width: 100%; height: 90%;">
   <div id="wistia_chrome_23" class="w-chrome notranslate" tabindex="-1">
     <div id="wistia_grid_57_wrapper" style="display: block; width: 630px; height: 354.375px;">
       <div id="wistia_grid_57_above" style="height: 0px; font-size: 0px; line-height: 0px;"> </div>
@@ -202,7 +202,7 @@ Your Softeware Engineering Bootcamp journey doesn’t end on the last day of cla
 <h1 class="slide-header">The Value of Learning Software Engineering</h1>
 
 <div class="wistia_embed wistia_async_58m1mkp8hj wistia_embed_initialized" id="wistia-58m1mkp8hj"
-  style="width: 100%; height: 50%;">
+  style="width: 100%; height: 90%;">
   <div id="wistia_chrome_23" class="w-chrome notranslate" tabindex="-1">
     <div id="wistia_grid_57_wrapper" style="display: block; width: 630px; height: 354.375px;">
       <div id="wistia_grid_57_above" style="height: 0px; font-size: 0px; line-height: 0px;"> </div>
@@ -328,7 +328,7 @@ You’re good to go!
 <h1 class="slide-header">A Few Words of Advice</h1>
 
 <div class="wistia_embed wistia_async_ui74acjy7d wistia_embed_initialized" id="wistia-ui74acjy7d"
-  style="width: 100%; height: 50%;">
+  style="width: 100%; height: 90%;">
   <div id="wistia_chrome_23" class="w-chrome notranslate" tabindex="-1">
     <div id="wistia_grid_57_wrapper" style="display: block; width: 630px; height: 354.375px;">
       <div id="wistia_grid_57_above" style="height: 0px; font-size: 0px; line-height: 0px;"> </div>
