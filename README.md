@@ -1,4 +1,4 @@
-<textarea id="source">
+<!-- <textarea id="source"> -->
 
 <h1 class="slide-header">Welcome to the Software Engineering Bootcamp</h1>
 
@@ -112,48 +112,41 @@ Pre-Work Details
 
 First things first: Our educational values. These are General Assembly's guiding principles to how we approach education, and ultimately to how instructors support our student’s learning experiences.
 
-At General Assembly, we share the following educational values. Click on the cards on the next slide to learn more about each value.
+At General Assembly, we share the following educational values.
 
-![](https://ga-instruction.s3.amazonaws.com/assets/myga-welcome-lesson-immersives/GA-educational-values.png)
+<img src="./assets/GA-educational-values.png" alt="Educational Values" style="width:600px;"/>
 
 ---
 
 <h1 class="slide-header">GA's Educational Values</h1>
 
-<details>
-  <summary>Career-Focused</summary>
-  GA students come to us because they’re looking for a change in their professional lives. Live this value by setting clear, high expectations for yourself and your peers as you would on the job. Practice professionalism, be proactive, and take pride in your work.
-</details>
+#### Career-Focused  
+GA students join to **advance their careers**. Set high expectations for yourself and your peers, just as you would in a professional setting. Be **proactive, professional, and take pride in your work**.  
 
-<details>
-  <summary>Learn with Empathy</summary>
-  We are proud of the diversity of the GA community and commit to creating a safe and inclusive environment for all staff and learners. Our students and staff come to GA from a variety of backgrounds with many different backstories, interests, and experiences. When working with others lead with empathy, put yourself in their shoes, and be open to different perspectives throughout your learning experience.
-</details>
+#### Learn with Empathy  
+GA values **diversity and inclusivity**. Students and staff come from different backgrounds—approach learning with **empathy, openness, and respect** for different perspectives.  
 
-<details>
-  <summary>Data-Driven Instruction</summary>
-  Ultimately, we are here to foster student growth and development during their time at GA. As instructors and support staff, we use data in many different forms to help reach each student effectively.
-</details>
+#### Data-Driven Instruction  
+We support student growth by using **data-driven insights** to enhance learning. Feedback, assessments, and student progress help us tailor instruction effectively.  
 
-<details>
-  <summary>Active Learning</summary>
-  GA students are empowered to take ownership of their own learning. As students you hold the key to your success and your instructors and support staff are here to facilitate your learning and discovery.
-</details>
+#### Active Learning  
+You are in charge of your learning journey! Instructors and staff **facilitate** the process, but **your success depends on your engagement, curiosity, and initiative**.  
 
-<details>
-  <summary>Keep Growing</summary>
-  You came to GA because you want to grow! To live this value, always up your ante, maintain high levels of professionalism and effort, and seek out resources that will push you. Get comfortable with the uncomfortable, knowing that you are learning and growing along the way!
-</details>
+#### Keep Growing  
+Personal growth comes from **pushing your limits**. Maintain professionalism, embrace challenges, and seek out learning opportunities. Growth happens outside your comfort zone!  
+
 
 ---
 
 <h1 class="slide-header">The Journey to SEB</h1>
 
-Our goal is to prepare you for Software Engineering Immersive (SEI) so you can make the most of the course starting on day one. There are four main steps before career coaching in the SEI journey, which are outlined in the image below:
+Our goal is to **prepare you for the Software Engineering Bootcamp (SEB)** so you can start strong on day one.  
 
-Shall we take a look at each of them?
+Before you start your new career, there are **four key steps** in the SEB journey.
 
----
+Let's break them down together!
+
+--- TKTK Stopped here
 
 <h1 class="slide-header">Pre-Work</h1>
 
