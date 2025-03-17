@@ -114,29 +114,29 @@ First things first: Our educational values. These are General Assembly's guiding
 
 At General Assembly, we share the following educational values.
 
-<img src="./assets/GA-educational-values.png" alt="Educational Values" style="width:600px;"/>
+<img src="./assets/GA-educational-values.png" alt="Educational Values" style="width:700px;"/>
 
 ---
 
 <h1 class="slide-header">GA's Educational Values</h1>
 
-#### Career-Focused
+### Career-Focused
 
 GA students join to **advance their careers**. Set high expectations for yourself and your peers, just as you would in a professional setting. Be **proactive, professional, and take pride in your work**.
 
-#### Learn with Empathy
+### Learn with Empathy
 
 GA values **diversity and inclusivity**. Students and staff come from different backgrounds—approach learning with **empathy, openness, and respect** for different perspectives.
 
-#### Data-Driven Instruction
+### Data-Driven Instruction
 
 We support student growth by using **data-driven insights** to enhance learning. Feedback, assessments, and student progress help us tailor instruction effectively.
 
-#### Active Learning
+### Active Learning
 
 You are in charge of your learning journey! Instructors and staff **facilitate** the process, but **your success depends on your engagement, curiosity, and initiative**.
 
-#### Keep Growing
+### Keep Growing
 
 Personal growth comes from **pushing your limits**. Maintain professionalism, embrace challenges, and seek out learning opportunities. Growth happens outside your comfort zone!
 
@@ -154,7 +154,7 @@ Let's break them down together!
 
 <h1 class="slide-header">Pre-Work</h1>
 
-<img src="./assets/journey-1.png" alt="SEB Journey 1" style="width:500px;"/>
+<img src="./assets/journey-1.png" alt="SEB Journey 1" style="width:600px;"/>
 
 **Step 1: Complete Your Pre-Work**
 
@@ -171,7 +171,7 @@ To stay on track, **complete all assigned lessons by the deadline** to ensure yo
 
 <h1 class="slide-header">Readiness Assessment</h1>
 
-<img src="./assets/journey-2.png" alt="SEB Journey 2" style="width:500px;"/>
+<img src="./assets/journey-2.png" alt="SEB Journey 2" style="width:600px;"/>
 
 **Step 2: Take the Readiness Assessment**
 
@@ -184,9 +184,11 @@ This assessment helps you:
 
 ## A **high score** indicates you're ready to move forward, while a **lower score** means you may need to review certain topics before starting the course. Taking this assessment seriously will help you enter the program with confidence.
 
+---
+
 <h1 class="slide-header">The Course</h1>
 
-<img src="./assets/journey-3.png" alt="SEB Journey 3" style="width:500px;"/>
+<img src="./assets/journey-3.png" alt="SEB Journey 3" style="width:600px;"/>
 
 **Step 3: The Software Engineering Bootcamp**
 
@@ -210,7 +212,7 @@ Embrace the challenge—this experience is designed to be **effective, immersive
 
 <h1 class="slide-header">Career Coaching</h1>
 
-<img src="./assets/journey-4.png" alt="SEB Journey 4" style="width:500px;"/>
+<img src="./assets/journey-4.png" alt="SEB Journey 4" style="width:600px;"/>
 
 **Step 4: Career Support After Graduation**
 
@@ -311,14 +313,34 @@ Our goal is to provide you with the tools and guidance needed to **navigate your
 
 <h1 class="slide-header">Pre-Work: What's Covered</h1>
 
-Your pre-work is organized into 4 units that typically take students between **8 and 15 hours** to complete. The bulk of this time will likely be spent on JavaScript fundamentals. Be sure to plan your time accordingly.
+Your pre-work is organized into **4 units** that typically take students between **8 and 15 hours** to complete. The bulk of this time will likely be spent on JavaScript fundamentals. Be sure to plan your time accordingly.
 
-| Unit | Title                       | Topics Covered                                                                                              |
-| :--: | --------------------------- | ----------------------------------------------------------------------------------------------------------- |
-|  1   | **Intro to HTML**           | HTML structure, elements, tags, attributes, semantic HTML, and boilerplate setup.                           |
-|  2   | **Intro to CSS**            | Styling elements with CSS, color and fonts, classes and IDs, layouts, and responsive design.                |
-|  3   | **JavaScript Fundamentals** | Variables, data types, operators, functions, conditionals, loops, DOM manipulation, and event handling.     |
-|  4   | **Developer Tools**         | Command line basics, navigating file systems, version control with Git, repositories, and GitHub workflows. |
+### Unit 1: **Intro to HTML**
+
+- HTML structure and elements
+- Tags and attributes
+- Semantic HTML
+- Boilerplate setup
+
+### Unit 2: **Intro to CSS**
+
+- Styling elements with CSS
+- Colors and fonts
+- Classes and IDs
+- Layouts and responsive design
+
+### Unit 3: **JavaScript Fundamentals**
+
+- Variables and data types
+- Operators and functions
+- Conditionals and loops
+- DOM manipulation and event handling
+
+### Unit 4: **Developer Tools**
+
+- Command line basics
+- Navigating file systems
+- Version control with Git
 
 ---
 
@@ -341,13 +363,15 @@ CodePen is an **online code editor and community platform** where developers can
 
 If you’re new to CodePen, they offer an official tour on their website.
 
-### Why Use CodePen?
+<br>
+
+**Why Use CodePen?**
 
 - **Practice coding in a live environment** without setup.
 - **Experiment with front-end projects** and see your results instantly.
 - **Save and revisit your work** for future reference.
 
-While you can complete our code challenges without an account, **creating a free CodePen account** allows you to save your work and explore other projects.
+While you can complete our code challenges without an account, **[creating a free CodePen account](https://codepen.io/)** allows you to save your work and explore other projects.
 
 This is an **important first step** in getting comfortable with coding before we move on to more advanced setups, like using **VS Code** and other developer tools later in the course.
 
