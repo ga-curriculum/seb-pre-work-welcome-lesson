@@ -186,7 +186,7 @@ A **high score** indicates you're ready to move forward, while a **lower score**
 
 ---
 
-<h1 class="slide-header">The Course</h1>
+<h1 class="slide-header">The Bootcamp</h1>
 
 <img src="./assets/journey-3.png" alt="SEB Journey 3" style="width:600px;"/>
 
