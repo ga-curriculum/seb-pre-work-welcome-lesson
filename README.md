@@ -120,23 +120,23 @@ At General Assembly, we share the following educational values.
 
 <h1 class="slide-header">GA's Educational Values</h1>
 
-### Career-Focused
+**Career-Focused**
 
 GA students join to **advance their careers**. Set high expectations for yourself and your peers, just as you would in a professional setting. Be **proactive, professional, and take pride in your work**.
 
-### Learn with Empathy
+**Learn with Empathy**
 
 GA values **diversity and inclusivity**. Students and staff come from different backgrounds—approach learning with **empathy, openness, and respect** for different perspectives.
 
-### Data-Driven Instruction
+**Data-Driven Instruction**
 
 We support student growth by using **data-driven insights** to enhance learning. Feedback, assessments, and student progress help us tailor instruction effectively.
 
-### Active Learning
+**Active Learning**
 
 You are in charge of your learning journey! Instructors and staff **facilitate** the process, but **your success depends on your engagement, curiosity, and initiative**.
 
-### Keep Growing
+**Keep Growing**
 
 Personal growth comes from **pushing your limits**. Maintain professionalism, embrace challenges, and seek out learning opportunities. Growth happens outside your comfort zone!
 
