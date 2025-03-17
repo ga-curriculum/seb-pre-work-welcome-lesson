@@ -194,11 +194,11 @@ A **high score** indicates you're ready to move forward, while a **lower score**
 
 The program is designed to be **intensive, hands-on, and highly engaging**. Expect **dynamic lectures, group activities, and plenty of coding practice**—all aimed at helping you build real-world skills.
 
-#### Time Commitment
+**Time Commitment**
 
 To succeed, you’ll need to **dedicate time outside of class** for homework and projects. Students typically spend **1-4 hours per day on assignments**, depending on their experience level. Be prepared to reinforce your learning by practicing regularly.
 
-#### Support System
+**Support System**
 
 You won’t be on this journey alone! Throughout the course, you’ll have support from:
 
@@ -315,28 +315,28 @@ Our goal is to provide you with the tools and guidance needed to **navigate your
 
 Your pre-work is organized into **4 units** that typically take students between **8 and 15 hours** to complete. The bulk of this time will likely be spent on JavaScript fundamentals. Be sure to plan your time accordingly.
 
-### Unit 1: **Intro to HTML**
+**Unit 1: Intro to HTML**
 
 - HTML structure and elements
 - Tags and attributes
 - Semantic HTML
 - Boilerplate setup
 
-### Unit 2: **Intro to CSS**
+**Unit 2: Intro to CSS**
 
 - Styling elements with CSS
 - Colors and fonts
 - Classes and IDs
 - Layouts and responsive design
 
-### Unit 3: **JavaScript Fundamentals**
+**Unit 3: JavaScript Fundamentals**
 
 - Variables and data types
 - Operators and functions
 - Conditionals and loops
 - DOM manipulation and event handling
 
-### Unit 4: **Developer Tools**
+**Unit 4: Developer Tools**
 
 - Command line basics
 - Navigating file systems
