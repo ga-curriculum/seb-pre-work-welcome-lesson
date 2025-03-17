@@ -182,7 +182,7 @@ This assessment helps you:
 - **Identify strengths and areas for improvement** before the bootcamp.
 - **Ensure you're fully prepared** for the challenges ahead.
 
-## A **high score** indicates you're ready to move forward, while a **lower score** means you may need to review certain topics before starting the course. Taking this assessment seriously will help you enter the program with confidence.
+A **high score** indicates you're ready to move forward, while a **lower score** means you may need to review certain topics before starting the course. Taking this assessment seriously will help you enter the program with confidence.
 
 ---
 
