@@ -365,8 +365,6 @@ CodePen is an **online code editor and community platform** where developers can
 
 If you’re new to CodePen, they offer an official tour on their website.
 
-<br>
-
 **Why Use CodePen?**
 
 - **Practice coding in a live environment** without setup.
