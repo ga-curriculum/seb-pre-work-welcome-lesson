@@ -1,14 +1,14 @@
-<!-- <textarea id="source"> -->
+<textarea id="source">
 
 <h1 class="slide-header">Welcome to the Software Engineering Bootcamp</h1>
 
 <span id=time-estimate class="color-grey-500">20 mins</span>
 
 <p id="lesson-description">
-If you’re reading this, you’re on your way to becoming a software engineer. Congratulations! 
+If you’re reading this, you’re on your way to becoming a software engineer. Congratulations!
 
 General Assembly has prepared a pre-course learning experience to help you hit the ground running because, once you get into the classroom, things will move quickly. Let’s see what you have in store!
-  
+
 </p>
 
 <h5 id="topics-header" class="color-grey-500">Topics</h5>
@@ -120,75 +120,107 @@ At General Assembly, we share the following educational values.
 
 <h1 class="slide-header">GA's Educational Values</h1>
 
-#### Career-Focused  
-GA students join to **advance their careers**. Set high expectations for yourself and your peers, just as you would in a professional setting. Be **proactive, professional, and take pride in your work**.  
+#### Career-Focused
 
-#### Learn with Empathy  
-GA values **diversity and inclusivity**. Students and staff come from different backgrounds—approach learning with **empathy, openness, and respect** for different perspectives.  
+GA students join to **advance their careers**. Set high expectations for yourself and your peers, just as you would in a professional setting. Be **proactive, professional, and take pride in your work**.
 
-#### Data-Driven Instruction  
-We support student growth by using **data-driven insights** to enhance learning. Feedback, assessments, and student progress help us tailor instruction effectively.  
+#### Learn with Empathy
 
-#### Active Learning  
-You are in charge of your learning journey! Instructors and staff **facilitate** the process, but **your success depends on your engagement, curiosity, and initiative**.  
+GA values **diversity and inclusivity**. Students and staff come from different backgrounds—approach learning with **empathy, openness, and respect** for different perspectives.
 
-#### Keep Growing  
-Personal growth comes from **pushing your limits**. Maintain professionalism, embrace challenges, and seek out learning opportunities. Growth happens outside your comfort zone!  
+#### Data-Driven Instruction
 
+We support student growth by using **data-driven insights** to enhance learning. Feedback, assessments, and student progress help us tailor instruction effectively.
+
+#### Active Learning
+
+You are in charge of your learning journey! Instructors and staff **facilitate** the process, but **your success depends on your engagement, curiosity, and initiative**.
+
+#### Keep Growing
+
+Personal growth comes from **pushing your limits**. Maintain professionalism, embrace challenges, and seek out learning opportunities. Growth happens outside your comfort zone!
 
 ---
 
 <h1 class="slide-header">The Journey to SEB</h1>
 
-Our goal is to **prepare you for the Software Engineering Bootcamp (SEB)** so you can start strong on day one.  
+Our goal is to **prepare you for the Software Engineering Bootcamp (SEB)** so you can start strong on day one.
 
 Before you start your new career, there are **four key steps** in the SEB journey.
 
 Let's break them down together!
 
---- TKTK Stopped here
+---
 
 <h1 class="slide-header">Pre-Work</h1>
 
-![](https://ga-create-api-assets.s3.amazonaws.com/JddR6UOyT8mRxWymG16z_seb-journey-1.png)
+<img src="./assets/journey-1.png" alt="SEB Journey 1" style="width:500px;"/>
 
-First, you’ll complete your pre-work here. 
+**Step 1: Complete Your Pre-Work**
 
-There are a lot of technical ideas to cover and terms to learn before beginning the in-class experience. To make sure you have the proper footing, we’ve prepared a learning path that covers the fundamentals of web-based programming, including HTML, CSS, and JavaScript. You will also learn how to work with standard developer tools (the command line, Git, and GitHub).
+Before starting the in-class experience, you’ll complete your **pre-work** here.
 
-Be sure to complete all assigned lessons before their deadline.
+This foundational learning path ensures you have a strong grasp of **core web development concepts**, including:
+
+- **HTML, CSS, and JavaScript** – The building blocks of web-based programming.
+- **Developer Tools** – Command line basics, Git, and GitHub for version control.
+
+To stay on track, **complete all assigned lessons by the deadline** to ensure you're fully prepared for the next phase of your journey.
 
 ---
 
 <h1 class="slide-header">Readiness Assessment</h1>
 
-![](https://ga-create-api-assets.s3.amazonaws.com/mRICTYMWQRy7qN26rYOZ_seb-journey-2.png)
+<img src="./assets/journey-2.png" alt="SEB Journey 2" style="width:500px;"/>
 
-Before your course officially begins, you’ll take the readiness assessment. 
+**Step 2: Take the Readiness Assessment**
 
-Once you’ve completed the pre-work, you’ll want to know which lessons sunk in and which you may need to revisit. This will help you to get your bearings and focus on the best way to make the most of the course.
+Before your course officially begins, you’ll take the **readiness assessment** to evaluate your understanding of the pre-work material.
 
----
+This assessment helps you:
+
+- **Identify strengths and areas for improvement** before the bootcamp.
+- **Ensure you're fully prepared** for the challenges ahead.
+
+## A **high score** indicates you're ready to move forward, while a **lower score** means you may need to review certain topics before starting the course. Taking this assessment seriously will help you enter the program with confidence.
 
 <h1 class="slide-header">The Course</h1>
 
-![](https://ga-create-api-assets.s3.amazonaws.com/lnkmzDBSRe8lazDWrIgF_seb-journey-3.png)
+<img src="./assets/journey-3.png" alt="SEB Journey 3" style="width:500px;"/>
 
-And of course, there’s the course! Dynamic lectures, group activities, plenty of hands-on practice — this program is a non-stop challenge. It’s intense. It’s effective. And it’s empowering.
+**Step 3: The Software Engineering Bootcamp**
 
-Make sure you budget time for completing homework and projects outside of the classroom. Depending on their level of experience, students spend an average of 1–4 hours on assignments. So, expect to spend plenty of time outside of scheduled class hours working with your new skills.
+The program is designed to be **intensive, hands-on, and highly engaging**. Expect **dynamic lectures, group activities, and plenty of coding practice**—all aimed at helping you build real-world skills.
 
-Along the way, you’ll have plenty of support from your instructor, classmates, career coaches, and the rest of the GA staff. 
+#### Time Commitment
+
+To succeed, you’ll need to **dedicate time outside of class** for homework and projects. Students typically spend **1-4 hours per day on assignments**, depending on their experience level. Be prepared to reinforce your learning by practicing regularly.
+
+#### Support System
+
+You won’t be on this journey alone! Throughout the course, you’ll have support from:
+
+- **Instructors** for guidance and technical questions.
+- **Classmates** to collaborate and problem-solve together.
+- **GA's Student Success Team** to help you stay on track and prepare for your next steps.
+
+Embrace the challenge—this experience is designed to be **effective, immersive, and empowering**!
 
 ---
 
 <h1 class="slide-header">Career Coaching</h1>
 
-![](https://ga-create-api-assets.s3.amazonaws.com/BkDs7lQlqc278muDpldg_seb-journey-4.png)
+<img src="./assets/journey-4.png" alt="SEB Journey 4" style="width:500px;"/>
 
-Your Softeware Engineering Bootcamp journey doesn’t end on the last day of class. You’ll continue working with our expert career coaches throughout your job search to find — and land — the position that’s right for you.
+**Step 4: Career Support After Graduation**
 
-![](https://ga-instruction.s3.amazonaws.com/assets/data/dsi-prework-welcome/beyondclassphoto.jpeg)
+Your journey doesn’t end on the last day of class. Upon successful graduation, you’ll gain access to **career services** through our partner company, **LHH’s Career Resources Network**.
+
+Through this network, you’ll have access to **career coaching, job search resources, and networking opportunities** to help you take the next step in your career.
+
+Our goal is to provide you with the tools and guidance needed to **navigate your job search and land the right role** after completing the program.
+
+<img src="./assets/beyondclassphoto.jpeg" alt="Two Students" style="width:400px;"/>
 
 ---
 
@@ -281,40 +313,43 @@ Your Softeware Engineering Bootcamp journey doesn’t end on the last day of cla
 
 Your pre-work is organized into 4 units that typically take students between **8 and 15 hours** to complete. The bulk of this time will likely be spent on JavaScript fundamentals. Be sure to plan your time accordingly.
 
-| Unit  | Title  | Topics  |
-|:-:|---|---|
-| 1 |  Intro to HTML | HTML Elements and Boilerplate|
-| 2 |  Intro to CSS | Color, Fonts, Classes and IDs, Images, Markup |
-| 3 | JavaScript Fundamentals | Data Types, Control Flow, DOM Manipulation, Browser Events |
-| 4 |  Developer Tools | Terminal, File Systems, GitHub |
+| Unit | Title                       | Topics Covered                                                                                              |
+| :--: | --------------------------- | ----------------------------------------------------------------------------------------------------------- |
+|  1   | **Intro to HTML**           | HTML structure, elements, tags, attributes, semantic HTML, and boilerplate setup.                           |
+|  2   | **Intro to CSS**            | Styling elements with CSS, color and fonts, classes and IDs, layouts, and responsive design.                |
+|  3   | **JavaScript Fundamentals** | Variables, data types, operators, functions, conditionals, loops, DOM manipulation, and event handling.     |
+|  4   | **Developer Tools**         | Command line basics, navigating file systems, version control with Git, repositories, and GitHub workflows. |
 
 ---
 
 <h1 class="slide-header">Pre-Work: What to Expect</h1>
 
-A few more things to know about the pre-work:
-* Each unit contains **several lessons** with built-in code challenges to apply your new learnings.
-* **Learning objectives** are listed at the beginning of each lesson. These are the goals you should be able to accomplish by the end of that unit. It’s always a good idea to circle back to these objectives and self-assess!
-* Each lesson covers a topic related to HTML, CSS, JavaScript, or developer tools. You may have seen some of this material before, but we encourage you to **complete all of the exercises** and assignments to really internalize the skills and vocabulary.
-* As you proceed through the units, you will complete practice exercises using an in-browser code editor called <a href="https://codepen.io/" target="_blank" rel="noreferrer noopener">**CodePen**</a>. You can click the external link to each Codepen and save your work to a personal Codepen account, in case you have questions and want to review these with your instructors or the student community.
+Here are a few key things to know before you begin:
+
+- **Structured Learning:** Each unit contains **multiple lessons** with built-in code challenges to help you apply what you've learned.
+- **Clear Learning Objectives:** At the beginning of each lesson, you’ll find **learning objectives** that outline key takeaways. Use these as a reference to assess your understanding.
+- **Comprehensive Content:** The lessons cover **HTML, CSS, JavaScript, and developer tools**. Even if you’re familiar with some topics, we encourage you to **complete all exercises** to strengthen your skills and vocabulary.
+- **Hands-on Coding:** You’ll practice by writing code in an **in-browser editor called [CodePen](https://codepen.io/)**. You can save your work in a personal CodePen account to review later with instructors or peers.
+
+Completing the pre-work thoroughly will ensure you're well-prepared for the course!
 
 ---
 
-<h1 class="slide-header">What is Codepen?</h1>
+<h1 class="slide-header">What is CodePen?</h1>
 
-CodePen is a communal digital sandbox — a website for testing and showcasing code snippets. It’s a great learning environment that provides an online code editor, a preview screen, and a gallery of work by other users. If you’ve never used CodePen before, take its <a href="https://codepen.io/pen/tour/welcome/1" target="_blank" rel="noreferrer noopener">tour</a>.
+CodePen is an **online code editor and community platform** where developers can write, test, and showcase code snippets. It provides an **interactive coding environment** with a live preview and access to a gallery of projects created by other users.
 
-While you'll be able to work with our code challenges without an account (and without even leaving our pre-work site), you might want to create one so you can save code and explore other front-end projects on codepen.
+If you’re new to CodePen, they offer an official tour on their website.
 
-![](https://ga-instruction.s3.amazonaws.com/assets/tech/welcome-and-congratulations-sei/codepenlogo.png)
+### Why Use CodePen?
 
-(OPTIONAL) To open your own CodePen account:
-1. Navigate to the <a href="https://codepen.io/" target="_blank" rel="noreferrer noopener">CodePen</a> website.
-2. Select the “Sign Up for Free” button. You can register with an existing Twitter, Facebook, GitHub, or email account. Let’s use email.
-3. Select “Sign Up with Email.” As prompted, enter your name, a username, your email address, and a password.
-4. Hit the “Submit” button.
+- **Practice coding in a live environment** without setup.
+- **Experiment with front-end projects** and see your results instantly.
+- **Save and revisit your work** for future reference.
 
-You’re good to go!
+While you can complete our code challenges without an account, **creating a free CodePen account** allows you to save your work and explore other projects.
+
+This is an **important first step** in getting comfortable with coding before we move on to more advanced setups, like using **VS Code** and other developer tools later in the course.
 
 ---
 
@@ -405,8 +440,8 @@ You’re good to go!
 
 <h1 class="slide-header">Conclusion</h1>
 
-Now you know what to expect as you work through our program's pre-work and start learning the foundational skills behind Software Engineering.
+You now have a clear understanding of what to expect as you work through the pre-work and begin building the foundational skills for Software Engineering.
 
-See you in the next lesson!
+Keep up the momentum, and we’ll see you in the next lesson!
 
 </textarea>
