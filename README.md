@@ -359,6 +359,8 @@ Completing the pre-work thoroughly will ensure you're well-prepared for the cour
 
 <h1 class="slide-header">What is CodePen?</h1>
 
+<img src="./assets/codepenlogo.png" alt="CodePen Logo" style="width:400px;"/>
+
 CodePen is an **online code editor and community platform** where developers can write, test, and showcase code snippets. It provides an **interactive coding environment** with a live preview and access to a gallery of projects created by other users.
 
 If you’re new to CodePen, they offer an official tour on their website.
